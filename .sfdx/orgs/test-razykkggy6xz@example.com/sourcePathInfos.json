@@ -1,0 +1,92 @@
+[
+    [
+        "/home/greg/sfdx/certification/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/home/greg/sfdx/certification/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552246639623,
+            "changeTime": 1552246639623,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552246639623,
+            "changeTime": 1552246639623,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552246639627,
+            "changeTime": 1552246639627,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552246639623,
+            "changeTime": 1552246639623,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/lwc",
+        {
+            "state": "n",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552246648204,
+            "changeTime": 1552246648204,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification",
+        {
+            "state": "n",
+            "sourcePath": "/home/greg/sfdx/certification",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552246644795,
+            "changeTime": 1552246644795,
+            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
