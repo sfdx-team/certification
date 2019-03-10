@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Certification_Element__c</fullName>
+    <deleteConstraint>Restrict</deleteConstraint>
+    <description>Surely I must know which test they attempting(lab, multiple choice) base on record type and pickllist option. 
+
+Filter Criteria	
+((Certification Attempt: Record TypeEQUALSMultiple Choice) AND (Certification Element: TypeEQUALSMultiple Choice)) OR ((Certification Attempt: Record TypeEQUALSLab) AND (Certification Element: TypeEQUALSLab))</description>
+    <externalId>false</externalId>
+    <label>Certification Element</label>
+    <referenceTo>Certification_Element__c</referenceTo>
+    <relationshipLabel>Certification Attempts</relationshipLabel>
+    <relationshipName>Certification_Attempts</relationshipName>
+    <required>true</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Date_Achieved__c</fullName>
+    <description>Date certification was achieved. 
+again this can be automate wtih process builder if checkox of after pickulikst complete/pass.</description>
+    <externalId>false</externalId>
+    <label>Date Achieved</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Date</type>
+</CustomField>

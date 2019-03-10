@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Certification_Candidate__c</fullName>
+    <deleteConstraint>Restrict</deleteConstraint>
+    <description>Certifaction candiate(contact) I can label it , anything, 
+While all course must have student(contacts) not all Candate(contact) will have a certification, 
+I could filter contact with certain criteria like recordtype, or they have pay or passed certain pre exam</description>
+    <externalId>false</externalId>
+    <label>Certification Candidate</label>
+    <referenceTo>Contact</referenceTo>
+    <relationshipLabel>Certification Attempts</relationshipLabel>
+    <relationshipName>Certification_Attempts</relationshipName>
+    <required>true</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

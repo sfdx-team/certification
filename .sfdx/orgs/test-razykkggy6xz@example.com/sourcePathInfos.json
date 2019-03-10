@@ -2,14 +2,14 @@
     [
         "/home/greg/sfdx/certification/force-app",
         {
-            "state": "n",
             "sourcePath": "/home/greg/sfdx/certification/force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1552246639623,
             "changeTime": 1552246639623,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "/home/greg/sfdx/certification/force-app/main",
         {
-            "state": "n",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1552246639623,
             "changeTime": 1552246639623,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,27 @@
     [
         "/home/greg/sfdx/certification/force-app/main/default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 4096,
-            "modifiedTime": 1552246639627,
-            "changeTime": 1552246639627,
-            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1552254631312,
+            "changeTime": 1552254631312,
+            "contentHash": "14741e7399ca9029df81944c8ceadfffc3c7b764"
         }
     ],
     [
         "/home/greg/sfdx/certification/force-app/main/default/aura",
         {
-            "state": "n",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1552246639623,
             "changeTime": 1552246639623,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +60,14 @@
     [
         "/home/greg/sfdx/certification/force-app/main/default/lwc",
         {
-            "state": "n",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1552246648204,
             "changeTime": 1552246648204,
             "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,16 +75,991 @@
     [
         "/home/greg/sfdx/certification",
         {
-            "state": "n",
             "sourcePath": "/home/greg/sfdx/certification",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1552246644795,
             "changeTime": 1552246644795,
             "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/Course_Delivery__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/Course_Delivery__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2462,
+            "modifiedTime": 1552254628979,
+            "changeTime": 1552254628979,
+            "contentHash": "5cdf34b493cb5608b0fb16c25d44359ae68e2dab"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/fields/Course__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/fields/Course__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 715,
+            "modifiedTime": 1552254628983,
+            "changeTime": 1552254628983,
+            "contentHash": "6be85f24cdd29a6af6ee00d589803a9a7dab7a5f"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/fields/Instructor__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/fields/Instructor__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 717,
+            "modifiedTime": 1552254628983,
+            "changeTime": 1552254628983,
+            "contentHash": "8e81ac11782aa49175ed06587dee0dcf2fc4b21c"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/fields/Start_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/fields/Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 438,
+            "modifiedTime": 1552254628983,
+            "changeTime": 1552254628983,
+            "contentHash": "2cec1da0eb217b856999f26d1f4dcd644f8134c9"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/fields/Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1341,
+            "modifiedTime": 1552254628983,
+            "changeTime": 1552254628983,
+            "contentHash": "dc043beeb6847288916adbbe5db9ae684a5eb172"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1552254628983,
+            "changeTime": 1552254628983,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/Certification_Held__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/Certification_Held__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2451,
+            "modifiedTime": 1552254628995,
+            "changeTime": 1552254628995,
+            "contentHash": "cdb38597b6b56162c3b21a782e7bfea07738ce1b"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/fields/Cert_Held_Dup_Key__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/fields/Cert_Held_Dup_Key__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 640,
+            "modifiedTime": 1552254628995,
+            "changeTime": 1552254628995,
+            "contentHash": "5cb44b0a82dacbd8f2a53dd97f3b2c29fc680310"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/fields/Certification__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/fields/Certification__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 832,
+            "modifiedTime": 1552254628995,
+            "changeTime": 1552254628995,
+            "contentHash": "4670178869714c46c21b1c7fe4b464c65e873ea7"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/fields/Certified_Professional_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/fields/Certified_Professional_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 760,
+            "modifiedTime": 1552254628995,
+            "changeTime": 1552254628995,
+            "contentHash": "a0d5f69995a273c38f4c88ed0d99fe3348f9d2a8"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/fields/Certified_Professional__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/fields/Certified_Professional__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 934,
+            "modifiedTime": 1552254628995,
+            "changeTime": 1552254628995,
+            "contentHash": "ece4654c99793ec741f5c3843df3d68f34bc084d"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/fields/Date_Achieved__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/fields/Date_Achieved__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 519,
+            "modifiedTime": 1552254628995,
+            "changeTime": 1552254628995,
+            "contentHash": "a20190e2c10a901a1e31777d0713134f2df64103"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/Certification_Attempt__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/Certification_Attempt__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2295,
+            "modifiedTime": 1552254629011,
+            "changeTime": 1552254629011,
+            "contentHash": "f2c882fe787083d38c7d11e4c01555cd175c543b"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Attemp_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Attemp_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 545,
+            "modifiedTime": 1552254629011,
+            "changeTime": 1552254629011,
+            "contentHash": "25276ee680ca8f255f52609348a84fd948f890e5"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Certification_Candidate__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Certification_Candidate__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 895,
+            "modifiedTime": 1552254629011,
+            "changeTime": 1552254629011,
+            "contentHash": "9c37c46a092351f2b1154bdc01ae8189bf2c6193"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Certification_Element__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Certification_Element__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 984,
+            "modifiedTime": 1552254629011,
+            "changeTime": 1552254629011,
+            "contentHash": "b5dce74efe960074421b0a3ad24921a00867cb67"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Certification_Id__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Certification_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 633,
+            "modifiedTime": 1552254629011,
+            "changeTime": 1552254629011,
+            "contentHash": "c77ce3a480c3f46365fd09c87883cf5d1f4293eb"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Certifying_Instructor__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Certifying_Instructor__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 671,
+            "modifiedTime": 1552254629011,
+            "changeTime": 1552254629011,
+            "contentHash": "444ff642afbc6abf92eb7a525b7d0d9d26813d6b"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Completion_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Completion_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 487,
+            "modifiedTime": 1552254629011,
+            "changeTime": 1552254629011,
+            "contentHash": "4f90e4cdaf18f540d837a9e63f000fe75d6756d9"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Start_Date__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 519,
+            "modifiedTime": 1552254629011,
+            "changeTime": 1552254629011,
+            "contentHash": "734e893c494a794a68d3cb313fdef04a9c10b867"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1722,
+            "modifiedTime": 1552254629011,
+            "changeTime": 1552254629011,
+            "contentHash": "b294b4f50eb7f3213e3459680400c11467123f29"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/Course__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/Course__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2144,
+            "modifiedTime": 1552254629027,
+            "changeTime": 1552254629027,
+            "contentHash": "9f61a52843a20f60bf43e6b6a1008702f933b70d"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/fields/Certification__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/fields/Certification__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 558,
+            "modifiedTime": 1552254629027,
+            "changeTime": 1552254629027,
+            "contentHash": "d694921c56cfa32d39ef893871478595fb28a6c0"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/fields/Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 468,
+            "modifiedTime": 1552254629027,
+            "changeTime": 1552254629027,
+            "contentHash": "3f5c0204ac60c47a67a297972bf298444f1d655b"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/fields/Duration__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/fields/Duration__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 490,
+            "modifiedTime": 1552254629027,
+            "changeTime": 1552254629027,
+            "contentHash": "b7868002f5da83b69831761227218db7c04fc7e0"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/fields/Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 928,
+            "modifiedTime": 1552254629027,
+            "changeTime": 1552254629027,
+            "contentHash": "c04384d02ab876dab303fab7ed4237cd59a4d7f6"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1552254629027,
+            "changeTime": 1552254629027,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification__c/Certification__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification__c/Certification__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2171,
+            "modifiedTime": 1552254629039,
+            "changeTime": 1552254629039,
+            "contentHash": "33be199807c9b0af2c80252a92cbda31289e0d0d"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification__c/fields/Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 979,
+            "modifiedTime": 1552254629207,
+            "changeTime": 1552254629207,
+            "contentHash": "279431d2bcdf635ae0bf13caeb28ee704be847f0"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification__c/listViews/All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1552254629211,
+            "changeTime": 1552254629211,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c/Course_Attendee__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c/Course_Attendee__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2366,
+            "modifiedTime": 1552254629223,
+            "changeTime": 1552254629223,
+            "contentHash": "a3c2c4eaeea18431e6f1cc338c005b8ec839abaf"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c/fields/Course_Delivery__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c/fields/Course_Delivery__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 829,
+            "modifiedTime": 1552254629223,
+            "changeTime": 1552254629223,
+            "contentHash": "9f598a1f1e77c802c62aa9d1486abd87f4932396"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c/fields/Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1431,
+            "modifiedTime": 1552254629223,
+            "changeTime": 1552254629223,
+            "contentHash": "d62f20c00aabad2175d623eeead10ca9f651ed12"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c/fields/Student_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c/fields/Student_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 637,
+            "modifiedTime": 1552254629223,
+            "changeTime": 1552254629223,
+            "contentHash": "fd985ea85de4511de4f29cf4534399dc7dd4e911"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c/fields/Student__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c/fields/Student__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 726,
+            "modifiedTime": 1552254629223,
+            "changeTime": 1552254629223,
+            "contentHash": "6a0dbdcf5862f17e223506a7c5cdc45c05e6635b"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Element__c/Certification_Element__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Element__c/Certification_Element__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2381,
+            "modifiedTime": 1552254629231,
+            "changeTime": 1552254629231,
+            "contentHash": "7adb62880bb41b931c2df0df9065aea51e5e09b3"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Element__c/fields/Certification__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Element__c/fields/Certification__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 789,
+            "modifiedTime": 1552254629231,
+            "changeTime": 1552254629231,
+            "contentHash": "a2446101d3aaadeaf35c01f6fe0dd3c3bdcdf968"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Element__c/fields/Type_of_Certification__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Element__c/fields/Type_of_Certification__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1044,
+            "modifiedTime": 1552254629231,
+            "changeTime": 1552254629231,
+            "contentHash": "cea85bdc470343398fea6edb9831e284de457098"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/reportTypes/Courses_with_Course_Deliveries_with_Course_Attendees.reportType-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/reportTypes/Courses_with_Course_Deliveries_with_Course_Attendees.reportType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6422,
+            "modifiedTime": 1552254629239,
+            "changeTime": 1552254629239,
+            "contentHash": "3d327edd404af56cd6013eab3680418a319a3945"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/layouts/Certification_Attempt__c-Certification Attempt Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/layouts/Certification_Attempt__c-Certification Attempt Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3829,
+            "modifiedTime": 1552254629275,
+            "changeTime": 1552254629275,
+            "contentHash": "977201cd7fbd91fae012adb35b18cf6238c49288"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/layouts/Course__c-Course Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/layouts/Course__c-Course Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3349,
+            "modifiedTime": 1552254629279,
+            "changeTime": 1552254629279,
+            "contentHash": "35a29050d23e12b686e2675c81a0afd46b04445c"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/layouts/Course_Attendee__c-Course Attendee Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/layouts/Course_Attendee__c-Course Attendee Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3068,
+            "modifiedTime": 1552254629283,
+            "changeTime": 1552254629283,
+            "contentHash": "fbdd6d985c633a4dc975c96ed6f471288c132cac"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/layouts/Certification_Element__c-Certification Element Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/layouts/Certification_Element__c-Certification Element Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2948,
+            "modifiedTime": 1552254629287,
+            "changeTime": 1552254629287,
+            "contentHash": "d9da244fd81e63714351d62fa7d492e939b60f44"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/layouts/Certification__c-Certification Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/layouts/Certification__c-Certification Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3210,
+            "modifiedTime": 1552254629291,
+            "changeTime": 1552254629291,
+            "contentHash": "cef0b6b479876a5f3c3c6bacc8940800dc44df73"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/layouts/Certification_Held__c-Certification Held Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/layouts/Certification_Held__c-Certification Held Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3250,
+            "modifiedTime": 1552254629295,
+            "changeTime": 1552254629295,
+            "contentHash": "fe711b120b9d3ebb8b53bc8874b7a3f821ac19a3"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/layouts/Course_Delivery__c-Course Delivery Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/layouts/Course_Delivery__c-Course Delivery Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3194,
+            "modifiedTime": 1552254629295,
+            "changeTime": 1552254629295,
+            "contentHash": "a97bbbb96b2049a0d4a1d61ff404294de80e44f4"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/tabs/Course_Delivery__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/tabs/Course_Delivery__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1552254631276,
+            "changeTime": 1552254631276,
+            "contentHash": "f9c449116f5f075e3eb878b45934fd7d98bcd473"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/tabs/Course__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/tabs/Course__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 221,
+            "modifiedTime": 1552254631280,
+            "changeTime": 1552254631280,
+            "contentHash": "99ad59b0f67ecf7d00cfef6ed7b06faa99ff7657"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/tabs/Certification__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/tabs/Certification__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 269,
+            "modifiedTime": 1552254631280,
+            "changeTime": 1552254631280,
+            "contentHash": "fd34d4d06ef41fcaa22cfca7aeb1fc4fb3122159"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 25479,
+            "modifiedTime": 1552254632052,
+            "changeTime": 1552254632052,
+            "contentHash": "0f75b140977b860906ef2bd210a3cf54fb5c982b"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9283,
+            "modifiedTime": 1552254632064,
+            "changeTime": 1552254632064,
+            "contentHash": "a01c0758e3b7c36b9f1d280f25da24268559f1cc"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8945,
+            "modifiedTime": 1552254632072,
+            "changeTime": 1552254632072,
+            "contentHash": "f0d369cc68865b46cb58441d4d86136c1691ee0b"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 8945,
+            "modifiedTime": 1552254632084,
+            "changeTime": 1552254632084,
+            "contentHash": "f0d369cc68865b46cb58441d4d86136c1691ee0b"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254628983,
+            "changeTime": 1552254628983,
+            "contentHash": "e45905b1573d5c085295bd762dfe93fd0c407ffc"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629231,
+            "changeTime": 1552254629231,
+            "contentHash": "7e9b30ff744c2cc904de7578b7c42f5cc8ab189d"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254628983,
+            "changeTime": 1552254628983,
+            "contentHash": "32a532002d8a45fcb79755d0e13582f74eafef17"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Delivery__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254628983,
+            "changeTime": 1552254628983,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254628995,
+            "changeTime": 1552254628995,
+            "contentHash": "90b845b9eaec75366955fb2f4121001678c3cae6"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Held__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254628995,
+            "changeTime": 1552254628995,
+            "contentHash": "eb1d37e515039e234a5fd7dd6efcf81e110cc803"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629011,
+            "changeTime": 1552254629011,
+            "contentHash": "e939b9c1ceaace42c6406a92f03934e4444057dc"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629011,
+            "changeTime": 1552254629011,
+            "contentHash": "6fcd3dffa4e3ae264640eebeaa94d932817edf5d"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629027,
+            "changeTime": 1552254629027,
+            "contentHash": "727c2adf469459ec07a9de126eed42794dfc4da7"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629027,
+            "changeTime": 1552254629027,
+            "contentHash": "24038b922afe8aef3004c455370cb0576ab2684a"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629027,
+            "changeTime": 1552254629027,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification__c",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629207,
+            "changeTime": 1552254629207,
+            "contentHash": "9daab04dfac3cc97ba5b55663d55a35beb700f3f"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629207,
+            "changeTime": 1552254629207,
+            "contentHash": "7546daeafe8869d18b37d2b8437a616c539efbd2"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification__c/listViews",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629211,
+            "changeTime": 1552254629211,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629223,
+            "changeTime": 1552254629223,
+            "contentHash": "f227ab4933543f56141940a4be47f2cb836d59a2"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Course_Attendee__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629223,
+            "changeTime": 1552254629223,
+            "contentHash": "7e5878b41985c12d8906a3c6d2efdef384ac04bc"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Element__c",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Element__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629231,
+            "changeTime": 1552254629231,
+            "contentHash": "36d230502c352fb9aefdde613477eb5d055d5692"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Element__c/fields",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Element__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629231,
+            "changeTime": 1552254629231,
+            "contentHash": "4c9c0c492ddb61f801a58d23541139e7aa09203a"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/reportTypes",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/reportTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629239,
+            "changeTime": 1552254629239,
+            "contentHash": "fffcd5f980306b69015ce5bdd76cb20aed3a745c"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254629295,
+            "changeTime": 1552254629295,
+            "contentHash": "fb6994bc9bbe5f918d5aa7f6c28055af4af6ab2f"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254631280,
+            "changeTime": 1552254631280,
+            "contentHash": "3995315eb52a222dfefda7f6154ddfe6dfe625ee"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 4096,
+            "modifiedTime": 1552254632084,
+            "changeTime": 1552254632084,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]

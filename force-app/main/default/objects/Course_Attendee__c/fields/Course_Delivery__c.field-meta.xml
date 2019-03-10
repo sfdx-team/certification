@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Course_Delivery__c</fullName>
+    <description>Imagine a student to is register to a class, which the class is host is a class and a course must need student(attendee)</description>
+    <externalId>false</externalId>
+    <label>Course Delivery</label>
+    <referenceTo>Course_Delivery__c</referenceTo>
+    <relationshipLabel>Course Attendees</relationshipLabel>
+    <relationshipName>Course_Attendees</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>
