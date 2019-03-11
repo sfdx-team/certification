@@ -1324,14 +1324,14 @@
     [
         "/home/greg/sfdx/certification/force-app/main/default/classes/CertificationAttemptTriggerHandler.cls",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/classes/CertificationAttemptTriggerHandler.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 8787,
             "modifiedTime": 1552321151161,
             "changeTime": 1552321151161,
-            "contentHash": "e6be2e8520b1ac0dde8de67dad914205c1952455"
+            "contentHash": "e6be2e8520b1ac0dde8de67dad914205c1952455",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1506,14 +1506,14 @@
     [
         "/home/greg/sfdx/certification/force-app/main/default/triggers/CertificationAttemptTrigger.trigger",
         {
+            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/triggers/CertificationAttemptTrigger.trigger",
             "isDirectory": false,
-            "size": 1014,
-            "modifiedTime": 1552320565617,
-            "changeTime": 1552317663530,
-            "contentHash": "690e6b7bb63c509d9cf730f5f45015b33f1c6aef",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 755,
+            "modifiedTime": 1552321556929,
+            "changeTime": 1552321556929,
+            "contentHash": "ad5b538388f8ec430ca93930a38c01dd1633f498"
         }
     ],
     [
