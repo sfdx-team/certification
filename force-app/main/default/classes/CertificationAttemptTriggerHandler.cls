@@ -106,7 +106,7 @@ public class CertificationAttemptTriggerHandler {
 
     }
 
-
+/// This does not work as expectd
     public static void grantInstructorSharingAccess(List<Certification_Attempt__c> triggerNew, Map<Id, Certification_Attempt__c> oldMap, Boolean isInsert, Boolean isUpdate) {
 
         /**
@@ -138,7 +138,6 @@ public class CertificationAttemptTriggerHandler {
                     Certification_Attempt__Share certAttemptShare = new Certification_Attempt__Share(
                         parentId = certAttempt.Id,
                         userOrGroupId = certAttempt.Certifying_Instructor__c,
-                        //I delete rowCause = Schema.Certification_Attempt__Share.RowCause.Certifying_Instructor__c
                         accessLevel = 'Edit'
                     );
                     sharesToCreate.add(certAttemptShare);
@@ -182,7 +181,7 @@ public class CertificationAttemptTriggerHandler {
             System.debug(ex);
         }
     }
-
+// Prevent attempts on the same day 
     public static void validateCertificationAttempt(List<Certification_Attempt__c> triggerNew) {
 
         /**
