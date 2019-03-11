@@ -323,14 +323,14 @@
     [
         "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Completion_Date__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Completion_Date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 483,
             "modifiedTime": 1552320214867,
             "changeTime": 1552320214867,
-            "contentHash": "f2ec1252fe01e3f65cd009c876d2666bfacfffd0"
+            "contentHash": "f2ec1252fe01e3f65cd009c876d2666bfacfffd0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -596,14 +596,14 @@
     [
         "/home/greg/sfdx/certification/force-app/main/default/layouts/Certification_Attempt__c-Certification Attempt Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/layouts/Certification_Attempt__c-Certification Attempt Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3990,
             "modifiedTime": 1552320214891,
             "changeTime": 1552320214891,
-            "contentHash": "e30c0ccff1dc4a7af688da170c4072f2991692a5"
+            "contentHash": "e30c0ccff1dc4a7af688da170c4072f2991692a5",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -726,53 +726,53 @@
     [
         "/home/greg/sfdx/certification/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 28128,
             "modifiedTime": 1552320214959,
             "changeTime": 1552320214959,
-            "contentHash": "1de020edbabcf610bd99d6170426d173e5ae0b94"
+            "contentHash": "1de020edbabcf610bd99d6170426d173e5ae0b94",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/greg/sfdx/certification/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 11947,
             "modifiedTime": 1552320214983,
             "changeTime": 1552320214983,
-            "contentHash": "c3e243013d7bb1bc696c13bf98496f62731aef9a"
+            "contentHash": "c3e243013d7bb1bc696c13bf98496f62731aef9a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/greg/sfdx/certification/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 11609,
             "modifiedTime": 1552320215003,
             "changeTime": 1552320215003,
-            "contentHash": "8260a0ac9d915de64d3d270c942825c02678e74d"
+            "contentHash": "8260a0ac9d915de64d3d270c942825c02678e74d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/greg/sfdx/certification/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 11609,
             "modifiedTime": 1552320215019,
             "changeTime": 1552320215019,
-            "contentHash": "8260a0ac9d915de64d3d270c942825c02678e74d"
+            "contentHash": "8260a0ac9d915de64d3d270c942825c02678e74d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -869,14 +869,14 @@
     [
         "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1552320214867,
             "changeTime": 1552320214867,
-            "contentHash": "588a6dd31116bbbbdeef432c26bff492daeba223"
+            "contentHash": "588a6dd31116bbbbdeef432c26bff492daeba223",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1093,7 +1093,7 @@
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/classes",
             "isDirectory": true,
             "size": 4096,
-            "modifiedTime": 1552262506395,
+            "modifiedTime": 1552320941932,
             "changeTime": 1552262506395,
             "contentHash": "1721d930cd5bf9cce6bc6243ae5bf46ec961a681",
             "isMetadataFile": false,
@@ -1328,10 +1328,10 @@
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/classes/CertificationAttemptTriggerHandler.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 12430,
-            "modifiedTime": 1552320214895,
-            "changeTime": 1552320214895,
-            "contentHash": "bdec4cadd9247cb635742768874d8a51b7f049b2"
+            "size": 8787,
+            "modifiedTime": 1552321151161,
+            "changeTime": 1552321151161,
+            "contentHash": "e6be2e8520b1ac0dde8de67dad914205c1952455"
         }
     ],
     [
@@ -1509,7 +1509,7 @@
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/triggers/CertificationAttemptTrigger.trigger",
             "isDirectory": false,
             "size": 1014,
-            "modifiedTime": 1552317663530,
+            "modifiedTime": 1552320565617,
             "changeTime": 1552317663530,
             "contentHash": "690e6b7bb63c509d9cf730f5f45015b33f1c6aef",
             "isMetadataFile": false,
@@ -1571,14 +1571,14 @@
     [
         "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Number_of_Elements_for_Cert__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/objects/Certification_Attempt__c/fields/Number_of_Elements_for_Cert__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 629,
             "modifiedTime": 1552320214867,
             "changeTime": 1552320214867,
-            "contentHash": "057ebea4f900a5dbef39d42353ddd9d90de1ccfe"
+            "contentHash": "057ebea4f900a5dbef39d42353ddd9d90de1ccfe",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
