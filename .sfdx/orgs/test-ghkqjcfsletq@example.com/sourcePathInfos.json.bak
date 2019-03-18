@@ -32,28 +32,28 @@
     [
         "/home/greg/sfdx/certification/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1552919985920,
             "changeTime": 1552919985920,
-            "isWorkspace": false,
-            "contentHash": "2f4ce6b82506d085ccc416ef309396da1fa9bf32"
+            "contentHash": "2f4ce6b82506d085ccc416ef309396da1fa9bf32",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "/home/greg/sfdx/certification/force-app/main/default/classes",
         {
+            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/classes",
             "isDirectory": true,
-            "size": 4096,
-            "modifiedTime": 1552920276313,
-            "changeTime": 1552920276313,
-            "contentHash": "502b5712a57b334d8a72a6717c4c4c17d040f8be",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 4096,
+            "modifiedTime": 1552921083709,
+            "changeTime": 1552921083709,
+            "contentHash": "d7862160124ddcf4f00d9ec81e56bbe617c3b130"
         }
     ],
     [
@@ -1527,10 +1527,10 @@
         {
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "size": 28418,
-            "modifiedTime": 1552920276437,
-            "changeTime": 1552920276437,
-            "contentHash": "0009bcbd0071b39a84fd10b3adeebcc39630c620",
+            "size": 28279,
+            "modifiedTime": 1552921048392,
+            "changeTime": 1552921048392,
+            "contentHash": "91e3108e4e70f5949de7f1dedcb09e3e64d3c193",
             "isMetadataFile": true,
             "state": "u"
         }
@@ -1742,15 +1742,15 @@
     [
         "/home/greg/sfdx/certification",
         {
-            "state": "u",
             "sourcePath": "/home/greg/sfdx/certification",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 4096,
             "modifiedTime": 1552919985920,
             "changeTime": 1552919985920,
-            "isWorkspace": true,
-            "contentHash": "3fab680288c1acb0aff9e3b35eaf720b1f778e62"
+            "contentHash": "3fab680288c1acb0aff9e3b35eaf720b1f778e62",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -1784,12 +1784,38 @@
         {
             "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/classes/EmailManager.cls",
             "isDirectory": false,
-            "size": 30,
-            "modifiedTime": 1552920276313,
-            "changeTime": 1552920276313,
-            "contentHash": "d7ded33b97481c7c33805ee88f3b9b8752a79d28",
+            "size": 1527,
+            "modifiedTime": 1552920508988,
+            "changeTime": 1552920508988,
+            "contentHash": "27f14c12dd7b6568ab00e87aa91b864d0923a585",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/classes/CertificationAttemptTriggerHandler.cls",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/classes/CertificationAttemptTriggerHandler.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8776,
+            "modifiedTime": 1552921136074,
+            "changeTime": 1552921136074,
+            "contentHash": "8de81d89a62fdefe728e4da8ba87258242a6180d"
+        }
+    ],
+    [
+        "/home/greg/sfdx/certification/force-app/main/default/classes/CertificationAttemptTriggerHandler.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/greg/sfdx/certification/force-app/main/default/classes/CertificationAttemptTriggerHandler.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 212,
+            "modifiedTime": 1552921083709,
+            "changeTime": 1552921083709,
+            "contentHash": "5aa4b12b0e117a4139589249b518335673be179b"
         }
     ]
 ]

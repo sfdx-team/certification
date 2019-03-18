@@ -4,6 +4,7 @@ trigger CertificationAttemptTrigger on Certification_Attempt__c (before delete, 
     if (Trigger.isBefore){
         if (Trigger.isInsert){
             CertificationAttemptTriggerHandler.validateCertificationAttempt(Trigger.new);
+            EmailManager.sendMail('vasques36@gmail.com', 'trailhead', 'insert certs');
         }
     }
     else if (Trigger.isAfter){

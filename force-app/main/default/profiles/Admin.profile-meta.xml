@@ -9,10 +9,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>CertificationAttemptTriggerHandler</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>ContactManager</apexClass>
         <enabled>true</enabled>
     </classAccesses>
