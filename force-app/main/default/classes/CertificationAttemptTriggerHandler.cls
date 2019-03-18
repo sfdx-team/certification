@@ -104,6 +104,7 @@ public class CertificationAttemptTriggerHandler {
             System.debug(ex);
         }
 
+<<<<<<< HEAD
     }
 
 /// This does not work as expectd
@@ -182,6 +183,10 @@ public class CertificationAttemptTriggerHandler {
         }
     }
 // Prevent attempts on the same day 
+=======
+    } //end calss
+
+>>>>>>> step1
     public static void validateCertificationAttempt(List<Certification_Attempt__c> triggerNew) {
 
         /**
