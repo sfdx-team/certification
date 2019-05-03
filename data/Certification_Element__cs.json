@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef1"
+            },
+            "Name": "Multiple Chocie",
+            "Certification__c": "@Certification__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef2"
+            },
+            "Name": "Lab Exam",
+            "Certification__c": "@Certification__cRef1"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef3"
+            },
+            "Name": "Element 1",
+            "Certification__c": "@Certification__cRef2"
+        }
+    ]
+}

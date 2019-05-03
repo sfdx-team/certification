@@ -1,0 +1,34 @@
+[
+    {
+        "sobject": "Certification__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Certification__cs.json"
+        ]
+    },
+    {
+        "sobject": "Course__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Course__cs.json"
+        ]
+    },
+    {
+        "sobject": "Certification_Element__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Certification_Element__cs.json"
+        ]
+    },
+    {
+        "sobject": "Certification_Held__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Certification_Held__cs.json"
+        ]
+    }
+]

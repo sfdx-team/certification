@@ -1,0 +1,18 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Certification__c",
+                "referenceId": "Certification__cRef1"
+            },
+            "Name": "neti"
+        },
+        {
+            "attributes": {
+                "type": "Certification__c",
+                "referenceId": "Certification__cRef2"
+            },
+            "Name": "Admin 1"
+        }
+    ]
+}
