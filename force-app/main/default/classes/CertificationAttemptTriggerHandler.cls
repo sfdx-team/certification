@@ -73,7 +73,7 @@ public class CertificationAttemptTriggerHandler {
          *                 sObject to the id of the certification candidate.
          *              -- add it to the certsHeldToAdd Map, using the currentKey as the key value.
          */
-        for(Certification_Attempt__c certAttempt : certAttemptsPass){
+    for(Certification_Attempt__c certAttempt : certAttemptsPass){
             // If all certification elements are complete and if a certification held does not already exist
             String currentKey = certAttempt.Certification_Candidate__c+certAttempt.Certification_Id__c;
             if(passCounts.get(currentKey) == certAttempt.Number_Of_Elements_For_Cert__c){
