@@ -5,7 +5,7 @@
                 "type": "Certification_Element__c",
                 "referenceId": "Certification_Element__cRef1"
             },
-            "Name": "Lab Exam",
+            "Name": "Lab exam",
             "Certification__c": "@Certification__cRef1"
         },
         {
@@ -13,7 +13,7 @@
                 "type": "Certification_Element__c",
                 "referenceId": "Certification_Element__cRef2"
             },
-            "Name": "Multiple Chocie",
+            "Name": "Multiple Choice Exam",
             "Certification__c": "@Certification__cRef1"
         },
         {
@@ -21,8 +21,96 @@
                 "type": "Certification_Element__c",
                 "referenceId": "Certification_Element__cRef3"
             },
-            "Name": "Element 1",
+            "Name": "Multiple Chocie",
             "Certification__c": "@Certification__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef4"
+            },
+            "Name": "Lab Exam",
+            "Certification__c": "@Certification__cRef2"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef5"
+            },
+            "Name": "Element 1",
+            "Certification__c": "@Certification__cRef3"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef6"
+            },
+            "Name": "Lab exam",
+            "Certification__c": "@Certification__cRef4"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef7"
+            },
+            "Name": "Multiple Chocie",
+            "Certification__c": "@Certification__cRef5"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef8"
+            },
+            "Name": "Lab Exam",
+            "Certification__c": "@Certification__cRef5"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef9"
+            },
+            "Name": "Element 1",
+            "Certification__c": "@Certification__cRef6"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef10"
+            },
+            "Name": "Lab exam",
+            "Certification__c": "@Certification__cRef7"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef11"
+            },
+            "Name": "Multiple Chocie",
+            "Certification__c": "@Certification__cRef8"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef12"
+            },
+            "Name": "Lab Exam",
+            "Certification__c": "@Certification__cRef8"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef13"
+            },
+            "Name": "Lab",
+            "Certification__c": "@Certification__cRef9"
+        },
+        {
+            "attributes": {
+                "type": "Certification_Element__c",
+                "referenceId": "Certification_Element__cRef14"
+            },
+            "Name": "Multiple Choice",
+            "Certification__c": "@Certification__cRef9"
         }
     ]
 }

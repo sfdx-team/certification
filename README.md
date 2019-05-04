@@ -10,7 +10,7 @@
 ## For New Orgs
 Push the app to your scratch org:
 1) sfdx force:source:push
-2) Assign the recipes permission set to the default user:
+Assign the recipes permission set to the default user:
 3) sfdx force:user:permset:assign -n tabs
 Load sample data:
 4) sfdx force:data:tree:import --plan ./data/data-plan.json
