@@ -9,7 +9,7 @@
         }
     ],
     "namespace": "",
-    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sfdcLoginUrl": "https://studio18-dev-ed.my.salesforce.com/",
     "sourceApiVersion": "45.0",
     "packageAliases": {
         "Certa": "0Ho460000008OR9CAM",
